@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ff0dc6bfc9e142159c7c8d7f0e6eba7d/artifacts
+end_time: 1726786901540
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff0dc6bfc9e142159c7c8d7f0e6eba7d
+run_name: Logistic_Regression_Model
+run_uuid: ff0dc6bfc9e142159c7c8d7f0e6eba7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726786901353
+status: 4
+tags: []
+user_id: AZIABLE
